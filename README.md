@@ -4,6 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6.svg)](https://apps.microsoft.com/detail/9nv73c0zcwr9)
 [![Network](https://img.shields.io/badge/Network-Up%20to%2010%20PCs-brightgreen.svg)](https://apps.microsoft.com/detail/9nv73c0zcwr9)
 [![License](https://img.shields.io/badge/License-Perpetual%20Lifetime-orange.svg)](https://apps.microsoft.com/detail/9nv73c0zcwr9)
+[![Website](https://img.shields.io/badge/Official%20Website-sigma--doo.com-blue)](https://sigma-doo.com/en.php)
 
 **Auto Service Manager** is a fast, native desktop solution engineered for automotive repair workshops, inspection stations, and multi-bay garages. It replaces slow web tools and expensive monthly subscription software with a reliable, lightning-fast local network platform.
 
@@ -81,4 +82,5 @@ Fully localized and native in 8 languages:
 
 ### 📞 Support & Inquiries
 - Official Store Listing: [Microsoft Store Page](https://apps.microsoft.com/detail/9nv73c0zcwr9)
+- [![Website](https://img.shields.io/badge/Official%20Website-sigma--doo.com-blue)](https://sigma-doo.com/en.php)
 - For bug reports or feature suggestions, feel free to open a ticket in the **Issues** tab.

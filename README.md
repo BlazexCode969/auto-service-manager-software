@@ -18,6 +18,8 @@ Get the official, verified build directly from the **Microsoft Store**:
 > 🎁 **Special Introductory Offer:** Lifetime perpetual license covering **up to 10 workstations** on your local network — **No recurring monthly fees!**
 
 ---
+<img width="1920" height="1080" alt="auto_servis_manager_eng_1920x1080" src="https://github.com/user-attachments/assets/b90be611-b1f1-4a1d-9dd0-9116710dab2f" />
+
 
 ### 🛠️ Key Capabilities & Features
 
@@ -36,6 +38,7 @@ Get the official, verified build directly from the **Microsoft Store**:
 
 #### 🔍 Pre-MOT & Technical Checklists
 - Complete vehicle inspection forms: brakes, fluid levels, suspension, battery health, and a **4-point tire tread depth tracker** (FL, FR, RL, RR).
+  <img width="1919" height="1036" alt="auto_servis_manager_eng_7" src="https://github.com/user-attachments/assets/530b0530-cd58-4b36-bb3a-b6c8665d20d6" />
 
 #### 💬 1-Click WhatsApp & Viber Customer Alerts
 - Send automated, pre-formatted instant messages to notify clients when their vehicle is ready for pickup.
